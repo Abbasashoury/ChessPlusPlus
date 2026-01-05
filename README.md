@@ -10,11 +10,11 @@ This repository contains the final project for the **Advanced Programming** cour
 
 Meet the developers from Bu-Ali Sina University who built this project:
 
-| Name || GitHub |
-| :--- || :--- |
-| **[Abbas Ashoury]** || [@AbbasAshoury](https://github.com/Abbasashoury) |
-| **[AminMohammad Jabari]** || [@AminMohammadJabari](https://github.com/MDayan88) |
-| **[AmirAli SheikhHassani]** || [@AmirAliSheikhHassani](https://github.com/Amiralish3719) |
+| Name | GitHub |
+| :--- | :--- |
+| **Abbas Ashoury** | [@AbbasAshoury](https://github.com/Abbasashoury) |
+| **AminMohammad Jabari** | [@MDayan88](https://github.com/MDayan88) |
+| **AmirAli SheikhHassani** | [@Amiralish3719](https://github.com/Amiralish3719) |
 
 ---
 
